@@ -8,3 +8,5 @@ window.addEventListener('DOMContentLoaded', () => {
 	}, 5000);
 });
 
+console.log('some text 3');
+
